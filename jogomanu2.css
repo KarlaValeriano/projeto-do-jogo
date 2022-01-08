@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-size: 100%;
+
+
+    background-image: url(https://img.freepik.com/fotos-gratis/bolo-de-mirtilo-glitter-roxo-com-cobertura-de-chocolate-em-um-fundo-branco_107760-506.jpg?size=626&ext=jpg);
+
+}
+h1 {
+    color: black;
+    text-shadow: 1px 1px 8px rgb(146, 122, 122);
+    font-style:italic;
+    padding-left: 20px;
+    text-align: center;
+    font-family:sans-serif;
+    
+    
+   
+ 
+}
+button{
+    background-color: black;
+    color:white;
+}
+h2{
+   
+    color: rgb(48, 39, 39);
+    font-style: italic;
+    background-color: white
+  
+}
+h3 {
+    font-style: italic;
+    text-shadow: 1px 1px 8px rgb(146, 122, 122);
+    background-color: white;
+    
+    
+   
+}
